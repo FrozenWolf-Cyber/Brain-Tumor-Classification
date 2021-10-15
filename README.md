@@ -1,5 +1,5 @@
 # Brain Tumor Classification
-Finetuning pre-trained ResNet50 model to classify the brain scan among different types of tumors : Meningioma , Glioma and Pitutary
+Fine-tuning pre-trained ResNet50 model to classify the brain scan among different types of tumors : Meningioma , Glioma and Pitutary
 
 ## Sample Dataset:
 ![sample_dataset](https://user-images.githubusercontent.com/57902078/137530839-a608e20f-75bc-4b45-9750-afb7cf737404.png)
